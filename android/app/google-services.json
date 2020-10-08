@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340808295611",
+    "firebase_url": "https://kobe-brew.firebaseio.com",
+    "project_id": "kobe-brew",
+    "storage_bucket": "kobe-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340808295611:android:45751a51cf24f95b00759e",
+        "android_client_info": {
+          "package_name": "com.kobe.brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340808295611-8ge7o1i92i5bgde52vkon114e9i9msdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVHRHydSdpGj-_qZEVpgm9xjvIkLlHFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340808295611-8ge7o1i92i5bgde52vkon114e9i9msdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
